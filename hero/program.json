@@ -1,0 +1,10 @@
+{
+    "program": "hero.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "license": "MIT",
+    "development": {
+        "private_key": "APrivateKey1zkp75qCUdBWqNNcyiCaN5LtZMhJtf2jbWVjhWg7AYibETBD",
+        "address": "aleo1hctfc5ecpy735xrwvezpp24yd3ygy394ughgmv59k4flm53essyq22jsgn"
+    }
+}
